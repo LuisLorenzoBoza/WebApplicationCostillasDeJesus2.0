@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationCostillasDeJe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{4F37E6A3-55E3-49FE-9261-860EDE0740DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{0CDFDD5F-265E-44C4-9EB9-3A88D147FB18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{2C6B1D29-DFBF-42E0-9622-DCB9A8E07061}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{4F37E6A3-55E3-49FE-9261-860EDE0740DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F37E6A3-55E3-49FE-9261-860EDE0740DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F37E6A3-55E3-49FE-9261-860EDE0740DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CDFDD5F-265E-44C4-9EB9-3A88D147FB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDFDD5F-265E-44C4-9EB9-3A88D147FB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDFDD5F-265E-44C4-9EB9-3A88D147FB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDFDD5F-265E-44C4-9EB9-3A88D147FB18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C6B1D29-DFBF-42E0-9622-DCB9A8E07061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6B1D29-DFBF-42E0-9622-DCB9A8E07061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6B1D29-DFBF-42E0-9622-DCB9A8E07061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6B1D29-DFBF-42E0-9622-DCB9A8E07061}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
