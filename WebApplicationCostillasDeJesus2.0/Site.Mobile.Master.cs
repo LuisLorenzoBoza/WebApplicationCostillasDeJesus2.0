@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace CostillasDeJesus2._0
+namespace WebApplicationCostillasDeJesus2._0
 {
     public partial class Site_Mobile : System.Web.UI.MasterPage
     {

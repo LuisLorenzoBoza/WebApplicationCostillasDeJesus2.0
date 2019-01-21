@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CostillasDeJesus2._0
+namespace WebApplicationCostillasDeJesus2._0
 {
     public partial class Contact : System.Web.UI.Page
     {

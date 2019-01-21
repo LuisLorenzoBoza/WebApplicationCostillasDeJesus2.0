@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CostillasDeJesus2._0.Consultas {
+namespace WebApplicationCostillasDeJesus2._0.Consultas {
     
     
     public partial class cUsuario {

@@ -4,7 +4,7 @@ using System.Web;
 using System.Web.Routing;
 using Microsoft.AspNet.FriendlyUrls;
 
-namespace CostillasDeJesus2._0
+namespace WebApplicationCostillasDeJesus2._0
 {
     public static class RouteConfig
     {

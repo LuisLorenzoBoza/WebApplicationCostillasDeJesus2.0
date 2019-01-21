@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" 
     AutoEventWireup="true" 
     CodeBehind="cUsuario.aspx.cs" 
-    Inherits="CostillasDeJesus2._0.Consultas.cUsuario" %>
+    Inherits="WebApplicationCostillasDeJesus2._0.Consultas.cUsuario" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <div class="panel panel-primary">

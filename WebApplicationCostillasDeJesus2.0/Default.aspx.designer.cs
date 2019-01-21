@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CostillasDeJesus2._0 {
+namespace WebApplicationCostillasDeJesus2._0 {
     
     
     public partial class Default {

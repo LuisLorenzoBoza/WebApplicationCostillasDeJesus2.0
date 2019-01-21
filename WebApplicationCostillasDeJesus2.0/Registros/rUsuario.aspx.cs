@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CostillasDeJesus2._0.Registros
+namespace WebApplicationCostillasDeJesus2._0.Registros
 {
     public partial class rUsuario : System.Web.UI.Page
     {

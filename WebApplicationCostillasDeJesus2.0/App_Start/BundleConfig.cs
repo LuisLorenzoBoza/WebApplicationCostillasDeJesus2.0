@@ -8,7 +8,7 @@ using System.Web.UI;
 
 
 
-namespace CostillasDeJesus2._0.App_Start
+namespace WebApplicationCostillasDeJesus2._0.App_Start
 {
     public class BundleConfig
     {

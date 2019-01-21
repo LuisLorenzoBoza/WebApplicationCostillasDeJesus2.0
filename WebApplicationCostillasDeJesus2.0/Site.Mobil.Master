@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Mobil.master.cs" Inherits="CostillasDeJesus2._0.Site_Mobil" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Mobil.master.cs" Inherits="WebApplicationCostillasDeJesus2._0.Site_Mobil" %>
 <%@ Register Src="~/ViewSwitcher.ascx" TagPrefix="friendlyUrls" TagName="ViewSwitcher" %>
 
 <!DOCTYPE html>

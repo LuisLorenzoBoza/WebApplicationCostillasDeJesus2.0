@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" 
     AutoEventWireup="true" 
     CodeBehind="rUsuario.aspx.cs" 
-    Inherits="CostillasDeJesus2._0.Registros.rUsuario" %>
+    Inherits="WebApplicationCostillasDeJesus2._0.Registros.rUsuario" %>
 
 
 

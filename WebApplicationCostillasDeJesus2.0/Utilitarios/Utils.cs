@@ -5,7 +5,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 
-namespace CostillasDeJesus2._0.Utilitarios
+namespace WebApplicationCostillasDeJesus2._0.Utilitarios
 {
     public static class Utils
     {
