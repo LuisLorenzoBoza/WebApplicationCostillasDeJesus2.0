@@ -56,5 +56,11 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WebApplicationCostillasDeJesus2.0\CostillasDeJesus2.0.csproj">
+      <Project>{00814372-e151-4d30-aa6c-6cb97c158bf2}</Project>
+      <Name>CostillasDeJesus2.0</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

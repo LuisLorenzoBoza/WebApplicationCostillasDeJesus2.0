@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Web;
 using System.Web.Routing;
 using Microsoft.AspNet.FriendlyUrls;
 
-namespace CostillasDeJesus2._0.App_Start
+namespace WebApplicationCostillasDeJesus2._0
 {
     public static class RouteConfig
     {
