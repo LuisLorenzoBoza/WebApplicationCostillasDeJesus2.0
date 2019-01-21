@@ -77,7 +77,19 @@
     <Content Include="Consultas\cUsuario.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Default.aspx" />
+    <Content Include="Global.asax" />
     <Content Include="Registros\rUsuario.aspx" />
+    <Content Include="Scripts\WebForms\css\bootstrap-grid.css" />
+    <Content Include="Scripts\WebForms\css\bootstrap-grid.min.css" />
+    <Content Include="Scripts\WebForms\css\bootstrap-reboot.css" />
+    <Content Include="Scripts\WebForms\css\bootstrap-reboot.min.css" />
+    <Content Include="Scripts\WebForms\css\bootstrap.css" />
+    <Content Include="Scripts\WebForms\css\bootstrap.min.css" />
+    <Content Include="Scripts\WebForms\jquery-3.3.1.min.js" />
+    <Content Include="Scripts\WebForms\js\bootstrap.bundle.js" />
+    <Content Include="Scripts\WebForms\js\bootstrap.bundle.min.js" />
+    <Content Include="Scripts\WebForms\js\bootstrap.js" />
+    <Content Include="Scripts\WebForms\js\bootstrap.min.js" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -112,6 +124,9 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Registros\rUsuario.aspx.cs">
       <DependentUpon>rUsuario.aspx</DependentUpon>
@@ -144,9 +159,21 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AplicationInsights.config" />
+    <Content Include="Bundle.config" />
     <None Include="packages.config" />
     <Content Include="Site.Master" />
     <Content Include="Site.Mobil.Master" />
+    <Content Include="Scripts\WebForms\css\bootstrap-grid.css.map" />
+    <Content Include="Scripts\WebForms\css\bootstrap-grid.min.css.map" />
+    <Content Include="Scripts\WebForms\css\bootstrap-reboot.css.map" />
+    <Content Include="Scripts\WebForms\css\bootstrap-reboot.min.css.map" />
+    <Content Include="Scripts\WebForms\css\bootstrap.css.map" />
+    <Content Include="Scripts\WebForms\css\bootstrap.min.css.map" />
+    <Content Include="Scripts\WebForms\js\bootstrap.bundle.js.map" />
+    <Content Include="Scripts\WebForms\js\bootstrap.bundle.min.js.map" />
+    <Content Include="Scripts\WebForms\js\bootstrap.js.map" />
+    <Content Include="Scripts\WebForms\js\bootstrap.min.js.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -158,7 +185,6 @@
     <Folder Include="App_Data\" />
     <Folder Include="Content\" />
     <Folder Include="Reportes\" />
-    <Folder Include="Scripts\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
