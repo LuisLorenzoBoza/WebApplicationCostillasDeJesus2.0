@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Optimization;
 using System.Web.UI;
 
-namespace WebApplicationCostillasDeJesus2._0.App_Start
+namespace CostillasDeJesus2._0.App_Start
 {
     public class BundleConfig
     {

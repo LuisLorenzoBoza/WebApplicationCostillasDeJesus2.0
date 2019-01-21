@@ -6,8 +6,9 @@ using System.Web.Optimization;
 using System.Web.Routing;
 using System.Web.Security;
 using System.Web.SessionState;
+using CostillasDeJesus2._0.App_Start;
 
-namespace WebApplicationCostillasDeJesus2._0
+namespace CostillasDeJesus2._0
 {
     public class Global : HttpApplication
     {
@@ -17,6 +18,5 @@ namespace WebApplicationCostillasDeJesus2._0
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
-
     }
 }

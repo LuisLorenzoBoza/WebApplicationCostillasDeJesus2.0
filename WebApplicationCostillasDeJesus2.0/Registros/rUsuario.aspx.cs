@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace WebApplicationCostillasDeJesus2._0.Registros
+namespace CostillasDeJesus2._0.Registros
 {
     public partial class rUsuario : System.Web.UI.Page
     {
