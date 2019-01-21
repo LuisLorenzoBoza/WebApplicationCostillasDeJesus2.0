@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebApplicationCostillasDeJesus2._0 {
+namespace CostillasDeJesus2._0 {
     
     
     public partial class ViewSwitcher {

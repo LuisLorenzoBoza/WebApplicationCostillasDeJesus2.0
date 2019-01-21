@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CostillasDeJesus2.0", "WebApplicationCostillasDeJesus2.0\CostillasDeJesus2.0.csproj", "{00814372-E151-4D30-AA6C-6CB97C158BF2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationCostillasDeJesus2.0", "WebApplicationCostillasDeJesus2.0\WebApplicationCostillasDeJesus2.0.csproj", "{00814372-E151-4D30-AA6C-6CB97C158BF2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{4F37E6A3-55E3-49FE-9261-860EDE0740DC}"
 EndProject

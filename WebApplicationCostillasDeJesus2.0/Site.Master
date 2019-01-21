@@ -13,7 +13,7 @@
         <%: Scripts.Render("~/bundles/modernizr") %>
     </asp:PlaceHolder>
 
-    <%-- ESTUDIARION???? 2 PUNTOS PARA EL QUE PONGA A FUNCIONAR TOASTR con bundle--%>
+   
 
     <webopt:bundlereference runat="server" path="~/Content/css" />
 
