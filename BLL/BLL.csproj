@@ -51,12 +51,17 @@
     <Compile Include="IRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RepositorioBase.cs" />
+    <Compile Include="UsuarioRepositorio.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Entities\Entities.csproj">
+      <Project>{2C6B1D29-DFBF-42E0-9622-DCB9A8E07061}</Project>
+      <Name>Entities</Name>
+    </ProjectReference>
     <ProjectReference Include="..\WebApplicationCostillasDeJesus2.0\WebApplicationCostillasDeJesus2.0.csproj">
       <Project>{00814372-e151-4d30-aa6c-6cb97c158bf2}</Project>
       <Name>WebApplicationCostillasDeJesus2.0</Name>
